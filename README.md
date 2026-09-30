@@ -30,6 +30,12 @@ Arquivo analisado localmente: `login.qlik.com.har`. SHA-256: `55C7B3EC3BAB260249
 
 O HAR bruto e a imagem não foram publicados neste repositório público. Requisições de autenticação e capturas de tela podem conter dados de sessão, credenciais ou identificadores pessoais. Os arquivos originais permanecem com o usuário.
 
+## Contato do suporte indicado em 30/09/2026
+
+- O usuário informou que a IN1 representa a NowVertical no contrato de suporte e indicou a página <https://nowvertical-pt.in1.com.br/suporte>. A página consultada apresenta o suporte da empresa, menciona equipe certificada Qlik e atendimento centralizado via TopDesk; ela não exibe, no conteúdo consultado, o endereço de e-mail abaixo.
+- Uma imagem de cabeçalho de e-mail fornecida pelo usuário mostra uma mensagem de 14/07/2026 enviada por **Suporte - NowVertical** com o endereço `suporte@nowvertical-pt.com`. O mesmo endereço aparece nos destinatários. Isso documenta seu uso naquele contato histórico; não confirma que seja o canal vigente para este novo caso.
+- A imagem não foi publicada neste repositório público porque também contém endereços pessoais e informações de outro chamado. Nenhuma mensagem foi enviada ao suporte nesta etapa.
+
 ## Hipótese para investigação
 
 Lourival Pedrosa considera possível que os acessos das unidades Sul e Leste, concentrados no IP público de saída informado (`177.69.159.129`), sejam interpretados pela plataforma como excesso de tentativas ou conexões. Essa relação **não está comprovada** pelas evidências disponíveis. As respostas observadas comprovam o bloqueio apresentado na tentativa de login, mas não identificam se sua causa está ligada ao IP compartilhado, à quantidade de usuários/conexões, a tentativas anteriores ou a outra regra de autenticação.
