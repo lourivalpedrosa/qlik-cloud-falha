@@ -35,6 +35,7 @@ O HAR bruto e a imagem não foram publicados neste repositório público. Requis
 - O usuário informou que a IN1 representa a NowVertical no contrato de suporte e indicou a página <https://nowvertical-pt.in1.com.br/suporte>. A página consultada apresenta o suporte da empresa, menciona equipe certificada Qlik e atendimento centralizado via TopDesk; ela não exibe, no conteúdo consultado, o endereço de e-mail abaixo.
 - Uma imagem de cabeçalho de e-mail fornecida pelo usuário mostra uma mensagem de 14/07/2026 enviada por **Suporte - NowVertical** com o endereço `suporte@nowvertical-pt.com`. O mesmo endereço aparece nos destinatários. Isso documenta seu uso naquele contato histórico; não confirma que seja o canal vigente para este novo caso.
 - A imagem não foi publicada neste repositório público porque também contém endereços pessoais e informações de outro chamado. Nenhuma mensagem foi enviada ao suporte nesta etapa.
+- O usuário informou que **Luan Nunes** foi um contato de suporte que atendeu a organização anteriormente. O cartão de assinatura fornecido o identifica como **IT Support** da NowVertical. Isso documenta o contato anterior, sem confirmar que Luan seja o responsável atual por este caso. Os dados diretos de contato e a imagem não foram publicados neste repositório público.
 
 ## Hipótese para investigação
 
